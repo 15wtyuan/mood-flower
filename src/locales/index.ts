@@ -1,0 +1,76 @@
+export default {
+  en: {
+    app: {
+      title: 'Mood Flower',
+      description: 'A desktop pet flower that reacts to your music',
+    },
+    home: {
+      listening: 'Listening to music...',
+      waiting: 'Waiting for music...',
+    },
+    settings: {
+      title: 'Settings',
+      language: 'Language',
+      theme: 'Theme',
+      autoStart: 'Auto Start',
+      alwaysOnTop: 'Always on Top',
+      showTrayIcon: 'Show Tray Icon',
+      languageDesc: 'Select your preferred language',
+      themeDesc: 'Choose app theme',
+      autoStartDesc: 'Launch app on system startup',
+      alwaysOnTopDesc: 'Keep window always visible',
+      showTrayIconDesc: 'Show icon in system tray',
+    },
+    moods: {
+      happy: 'Happy',
+      calm: 'Calm',
+      excited: 'Excited',
+      sad: 'Sad',
+      sleepy: 'Sleepy',
+    },
+    animations: {
+      idle: 'Idle',
+      swaying: 'Swaying',
+      dancing: 'Dancing',
+      blooming: 'Blooming',
+      withering: 'Withering',
+    },
+  },
+  zh: {
+    app: {
+      title: '情绪花朵',
+      description: '一个会根据你的音乐做出反应的桌面花朵',
+    },
+    home: {
+      listening: '正在听音乐...',
+      waiting: '等待音乐播放...',
+    },
+    settings: {
+      title: '设置',
+      language: '语言',
+      theme: '主题',
+      autoStart: '开机自启',
+      alwaysOnTop: '置顶显示',
+      showTrayIcon: '托盘图标',
+      languageDesc: '选择你偏好的语言',
+      themeDesc: '选择应用主题',
+      autoStartDesc: '系统启动时自动运行',
+      alwaysOnTopDesc: '保持窗口始终可见',
+      showTrayIconDesc: '在系统托盘中显示图标',
+    },
+    moods: {
+      happy: '开心',
+      calm: '平静',
+      excited: '兴奋',
+      sad: '悲伤',
+      sleepy: '困倦',
+    },
+    animations: {
+      idle: '静止',
+      swaying: '摇摆',
+      dancing: '跳舞',
+      blooming: '开花',
+      withering: '凋谢',
+    },
+  },
+}

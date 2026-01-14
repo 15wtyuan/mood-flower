@@ -1,0 +1,2 @@
+pre-commit: pnpm lint-staged
+commit-msg: npx --no-install commitlint -e $1
